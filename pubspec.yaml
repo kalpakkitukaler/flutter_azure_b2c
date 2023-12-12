@@ -4,8 +4,7 @@ version: 0.0.9
 homepage: "https://github.com/nodriver-ai/flutter_azure_b2c"
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=1.20.0"
+  sdk: '>=3.1.3 <4.0.0'
 
 dependencies:
   flutter:
@@ -13,7 +12,7 @@ dependencies:
   flutter_web_plugins:
     sdk: flutter
   msal_js: ^2.14.0
-  intl: ^0.17.0
+  intl: ^0.18.0
   
 
 dev_dependencies:
